@@ -486,7 +486,7 @@
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value>
-        <option name="FOREGROUND" value="26a6a6" />
+        <option name="FOREGROUND" value="dee3ec" />
         <option name="BACKGROUND" value="171a20" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
@@ -1039,6 +1039,16 @@
       </value>
     </option>
     <option name="OC_FORMAT_TOKEN">
+      <value>
+        <option name="FOREGROUND" value="26a6a6" />
+      </value>
+    </option>
+    <option name="PHP_BRACES">
+      <value>
+        <option name="FOREGROUND" value="26a6a6" />
+      </value>
+    </option>
+    <option name="PHP_BRACKETS">
       <value>
         <option name="FOREGROUND" value="26a6a6" />
       </value>
