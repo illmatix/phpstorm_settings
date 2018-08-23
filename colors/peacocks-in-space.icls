@@ -1088,6 +1088,18 @@
         <option name="FOREGROUND" value="dee3ec" />
       </value>
     </option>
+    <option name="POWER_SHELL_COMMAND_NAME">
+      <value>
+        <option name="FOREGROUND" value="12d1ff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="POWER_SHELL_COMMAND_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="8bb5c9" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="PROPERTIES.INVALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="bcd42a" />
