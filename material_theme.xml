@@ -1,8 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="2.9.6.4" />
-    <option name="selectedTheme" value="DEEPOCEAN" />
-    <option name="highlightColor" value="98f1e9" />
+    <option name="selectedTheme" value="ONE_DARK" />
+    <option name="highlightColor" value="4189ec" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="accentColor" value="00bcd4" />
@@ -11,7 +11,6 @@
     <option name="darkTitleBar" value="true" />
     <option name="useMaterialFont" value="false" />
     <option name="upperCaseButtons" value="false" />
-    <option name="settingsSelectedTab" value="6" />
     <option name="userId" value="-7ec1988:164fb5c68ce:-8000" />
     <option name="allowDataCollection" value="true" />
     <option name="treeFontSizeEnabled" value="true" />
