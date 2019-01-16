@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".jshint" type="PLAIN_TEXT" />
       <mapping pattern=".jscs" type="PLAIN_TEXT" />
+      <mapping pattern="rehl-app" type="PLAIN_TEXT" />
+      <mapping pattern=".jshint" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
