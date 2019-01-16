@@ -5,6 +5,7 @@
       <mapping pattern="rehl-app" type="PLAIN_TEXT" />
       <mapping pattern=".jshint" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
