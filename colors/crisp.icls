@@ -377,6 +377,12 @@
     <option name="Class">
       <value />
     </option>
+    <option name="DEFAULT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="4176ff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="574457" />
@@ -402,7 +408,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="765478" />
+        <option name="FOREGROUND" value="882d2b" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -424,6 +430,12 @@
     <option name="DEFAULT_DOT">
       <value />
     </option>
+    <option name="DEFAULT_ENTITY">
+      <value>
+        <option name="FOREGROUND" value="4176ff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="fc6a0f" />
@@ -431,7 +443,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="fc9a0f" />
+        <option name="FOREGROUND" value="c46f36" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
@@ -458,7 +470,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="fc6a0f" />
+        <option name="FOREGROUND" value="fce066" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -498,6 +510,9 @@
       <value>
         <option name="FOREGROUND" value="fc9a0f" />
       </value>
+    </option>
+    <option name="DEFAULT_TAG">
+      <value />
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value>
@@ -743,6 +758,12 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="221a22" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="565656" />
+        <option name="BACKGROUND" value="ededed" />
       </value>
     </option>
     <option name="INSPECTION_MULTIPLE_RESOLVE_WARNING_ID">
@@ -1003,6 +1024,11 @@
     <option name="MACRO_PARAMETER">
       <value />
     </option>
+    <option name="MAGIC_MEMBER_ACCESS">
+      <value>
+        <option name="FOREGROUND" value="b983bc" />
+      </value>
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FONT_TYPE" value="1" />
@@ -1100,21 +1126,115 @@
         <option name="FOREGROUND" value="d24643" />
       </value>
     </option>
+    <option name="PHP_ALIAS_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="b983bc" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PHP_BRACES">
+      <value>
+        <option name="FOREGROUND" value="d54744" />
+      </value>
+    </option>
+    <option name="PHP_CLASS">
+      <value>
+        <option name="FOREGROUND" value="33c0ff" />
+      </value>
+    </option>
+    <option name="PHP_COMMA">
+      <value>
+        <option name="FOREGROUND" value="e3e3e3" />
+      </value>
+    </option>
     <option name="PHP_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="765478" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="4176ff" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="PHP_DOC_COMMENT_ID">
+      <value>
+        <option name="FOREGROUND" value="979797" />
+      </value>
+    </option>
+    <option name="PHP_DOC_TAG">
+      <value>
+        <option name="FOREGROUND" value="776377" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PHP_ESCAPE_SEQUENCE">
+      <value>
+        <option name="FOREGROUND" value="b983bc" />
       </value>
     </option>
     <option name="PHP_EXEC_COMMAND_ID">
       <value>
-        <option name="FOREGROUND" value="a5c25c" />
-        <option name="BACKGROUND" value="221a22" />
+        <option name="FOREGROUND" value="ba3e3b" />
+      </value>
+    </option>
+    <option name="PHP_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="e2e2e2" />
+      </value>
+    </option>
+    <option name="PHP_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="e3e3e3" />
       </value>
     </option>
     <option name="PHP_HEREDOC_ID">
       <value>
         <option name="FOREGROUND" value="fc6a0f" />
+      </value>
+    </option>
+    <option name="PHP_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="33c0ff" />
+      </value>
+    </option>
+    <option name="PHP_INSTANCE_METHOD">
+      <value>
+        <option name="FOREGROUND" value="b983bc" />
+      </value>
+    </option>
+    <option name="PHP_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="d54744" />
+      </value>
+    </option>
+    <option name="PHP_OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="e3e3e3" />
+      </value>
+    </option>
+    <option name="PHP_PARAMETER">
+      <value />
+    </option>
+    <option name="PHP_PARENTHESES">
+      <value>
+        <option name="FOREGROUND" value="e3e3e3" />
+      </value>
+    </option>
+    <option name="PHP_PRIMITIVE_TYPE_HINT">
+      <value>
+        <option name="FOREGROUND" value="776377" />
+      </value>
+    </option>
+    <option name="PHP_SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="e3e3e3" />
+      </value>
+    </option>
+    <option name="PHP_STATIC_FIELD">
+      <value>
+        <option name="FOREGROUND" value="33c0ff" />
+      </value>
+    </option>
+    <option name="PHP_STATIC_METHOD">
+      <value>
+        <option name="FOREGROUND" value="b983bc" />
       </value>
     </option>
     <option name="PHP_TAG">
@@ -1124,7 +1244,13 @@
     </option>
     <option name="PHP_VAR">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="e2e2e2" />
+      </value>
+    </option>
+    <option name="PHP_VAR_VAR">
+      <value>
+        <option name="FOREGROUND" value="b983bc" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="POWER_SHELL_COMMAND_NAME">
