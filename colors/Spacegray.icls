@@ -468,6 +468,12 @@
         <option name="FOREGROUND" value="96b5b4" />
       </value>
     </option>
+    <option name="JSON.PROPERTY_KEY">
+      <value>
+        <option name="FOREGROUND" value="b983bc" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="JSP_SCRIPTING_BACKGROUND">
       <value />
     </option>
