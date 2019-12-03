@@ -387,6 +387,24 @@
         <option name="BACKGROUND" value="2b303b" />
       </value>
     </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="e3e3e3" />
+        <option name="BACKGROUND" value="33c0ff" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="e3e3e3" />
+        <option name="BACKGROUND" value="33c0ff" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
+      <value>
+        <option name="FOREGROUND" value="e3e3e3" />
+        <option name="BACKGROUND" value="33c0ff" />
+      </value>
+    </option>
     <option name="JS.BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="65737e" />
