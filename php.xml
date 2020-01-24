@@ -1,18 +1,12 @@
 <application>
-  <component name="MessDetector">
-    <phpmd_settings_migrated />
-  </component>
-  <component name="PhpCodeSniffer">
-    <phpcs_settings_migrated />
-  </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="7b05815a-5d2d-424f-b4ca-ed5790f856a2" name="PHP 7.2" home="C:\Users\chadp\scoop\shims\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="7b05815a-5d2d-424f-b4ca-ed5790f856a2" name="Scoop - WIN10 - PHP 7.2.12" home="C:\Users\chadp\scoop\shims\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7.2">
+      <interpreter name="Scoop - WIN10 - PHP 7.2.12">
         <phpinfo binary_type="PHP" php_cgi="C:\Users\chadp\scoop\apps\php\current\php-cgi.exe" php_cli="C:\Users\chadp\scoop\apps\php\current\php.exe" path_separator=";" version="7.2.12">
           <additional_php_ini>C:\Users\chadp\scoop\apps\php\current\cli\php.ini</additional_php_ini>
           <configuration_file />
